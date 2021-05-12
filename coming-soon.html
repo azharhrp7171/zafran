@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en">
+.php lang="en">
     <head>
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
@@ -32,7 +32,7 @@
         <div id="main">
             <!-- cs-content-container -->
             <div class="cs-content-container">
-                <a href="index.html" class="cs-logo"><img src="images/logo2.png" alt=""></a>
+                <a href="index.php" class="cs-logo"><img src="images/logo2.png" alt=""></a>
                 <div class="cs-content-wrapper">
                     <h3>Under Construction</h3>
                     <h2>Our Website is Coming Soon</h2>
@@ -244,4 +244,4 @@
         <script src="js/scripts.js"></script>
         <script src="js/cs-scripts.js"></script>
     </body>
-</html>
+<.php>
