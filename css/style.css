@@ -1459,13 +1459,6 @@ section.parallax-section .bg   {
 	color: #323246;
 	font-family: 'Playfair Display', cursive;
 }
-.section-title h3 {
-	font-size:20px;
-	font-weight:900;
-	color: #fff;
-	font-family: 'Playfair Display', cursive;
-}
-
 section.parallax-section.hero-section .section-title h2 {
 	color:#fff;
 	font-size:38px;
@@ -1658,7 +1651,14 @@ section.parallax-section.hero-section .section-title h2 {
 	margin-bottom:30px;
 } 
 .work-time:before {
-    
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -5px;
+    width: 10px;
+	bottom:20px;
+    background: url(../images/ver-separator.png) repeat-y;
 }
 .big-number {
 	margin:20px auto 0;
@@ -1712,11 +1712,9 @@ section.parallax-section.hero-section .section-title h2 {
 .dark-bg {
 	background:#292929;
 }
-.dark-bg .section-title h2,h3{
+.dark-bg .section-title h2{
 	color:#fff;
 }
-
-
 .wave-bg {
 	position:absolute;
 	bottom:-5%;
