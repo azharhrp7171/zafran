@@ -101,7 +101,7 @@
                                         </p>
                                         <p> Welcome to Zafran Kabab Palace, an experience of authentic Pakistani/Indian Cuisine which holds a proud place in the list of distinguished cuisines.</p>
                                         <p> Experience authentic traditional Pakistani/Indian cuisine delicately prepared keeping today’s tastes in mind. Our diverse menu offers something for every mood, appetite and occasion.</p>
- <p> Zafran Kabab Palace food philosophy is driven by a desire to capture the expansive and exotic flavors of (Mughal Empire) Pakistan/India. You’ll discover that our menu is as diverse as Pakistani/Indian itself! Choices include a range of both vegetarian and non-vegetarian dishes, all cooked to perfection with the finest ingredients and spices. It is a family owned and operated restaurant (Only two Locations Now).</p>
+                                <p> Zafran Kabab Palace food philosophy is driven by a desire to capture the expansive and exotic flavors of (Mughal Empire) Pakistan/India. You’ll discover that our menu is as diverse as Pakistani/Indian itself! Choices include a range of both vegetarian and non-vegetarian dishes, all cooked to perfection with the finest ingredients and spices. It is a family owned and operated restaurant (Only two Locations Now).</p>
 
 
 
@@ -123,7 +123,8 @@
                         <div class="wave-bg" data-scrollax="properties: { translateY: '-150px' }"></div>                            
                         </div>
                     </section>
-                    <!--  section end  -->   
+                    <!--  section end  -->  
+                     
                     <!-- section   -->
                     <section class="column-section no-padding hidden-section" data-scrollax-parent="true" id="sec4">
                         <div class="column-wrap-bg left-wrap">
@@ -526,6 +527,7 @@
                         </div>
                     </section>
                     <!-- section end  --> 
+
                 </div>
                 <!-- content end  -->
                 <!-- footer -->

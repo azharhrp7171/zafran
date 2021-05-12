@@ -55,427 +55,91 @@
                         <div class="brush-dec2 brush-dec_bottom"></div>
                         <div class="container">
                             <!--  hero-menu_header  end-->
-                            <div class="hero-menu single-menu  tabs-act fl-wrap">
-                                <div class="gallery_filter-button btn">Show Filters <i class="fal fa-long-arrow-down"></i></div>
-                                <!--  hero-menu_header-->
-                                <div class="hero-menu_header fl-wrap gth">
-                                    <ul class="tabs-menu  no-list-style">
-                                        <li class="current"><a href="#tab-1"><span>01.</span>Zafran Special BBQ</a></li>
-                                        <li><a href="#tab-2"><span>02.</span>Appetizers</a></li>
-                                        <li><a href="#tab-3"><span>03.</span>Peshwar Namak Mandi/Clay Oven</a></li>
-                                        <li><a href="#tab-4"><span>04.</span>Main Course</a></li>
-                                        <li><a href="#tab-5"><span>05.</span>Rice Dishes/Dam Biryani</a></li>
-
-                                        <li><a href="#tab-5"><span>05.</span>Vegeterian</a></li>
-
-
-                                        
-                                    </ul>
-                                </div>
-                                <!--  hero-menu_header  end-->
-                                <!--  hero-menu_content   -->
-                                <div class="hero-menu_content fl-wrap">
-                                    <div class="tabs-container">
-                                        <div class="tab">
-                                            <!--tab -->
-                                            <div id="tab-1" class="tab-content first-tab">
-                                                <!-- hero-menu-item-->
-                                                <div class="hero-menu-item">
-                                                    <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                    <div class="hero-menu-item-title fl-wrap">
-                                                        <h6>  Soft shell crab</h6>
-                                                        <div class="hmi-dec"></div>
-                                                        <span class="hero-menu-item-price">$29</span>
-                                                        <div class="add_cart">Add To Cart</div>
-                                                    </div>
-                                                    <div class="hero-menu-item-details">
-                                                        <p>Seasoned with an herb crust, served with au jus and handcarved to order.</p>
-                                                    </div>
-                                                </div>
-                                                <!-- hero-menu-item end-->  
-                                                <!-- hero-menu-item-->
-                                                <div class="hero-menu-item">
-                                                    <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                    <div class="hero-menu-item-title fl-wrap">
-                                                        <h6> Miso chicken</h6>
-                                                        <div class="hmi-dec"></div>
-                                                        <span class="hero-menu-item-price">$19</span>
-                                                        <div class="add_cart">Add To Cart</div>
-                                                    </div>
-                                                    <div class="hero-menu-item-details">
-                                                        <p>Our tender, juicy filet paired with a steamed lobster tail. Served with your choice of signature potato and one freshly made side.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <!-- hero-menu-item end-->                                                           
-                                                <!-- hero-menu-item-->
-                                                <div class="hero-menu-item">
-                                                    <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                    <div class="hero-menu-item-title fl-wrap">
-                                                        <h6> Fish pie</h6>
-                                                        <div class="hmi-dec"></div>
-                                                        <span class="hero-menu-item-price">$12</span>
-                                                        <div class="add_cart">Add To Cart</div>
-                                                    </div>
-                                                    <div class="hero-menu-item-details">
-                                                        <p>Integer nec lacinia arcu, vel rhoncus leo aliquet.</p>
-                                                    </div>
-                                                </div>
-                                                <!-- hero-menu-item end-->                                                           
-                                                <!-- hero-menu-item-->
-                                                <div class="hero-menu-item">
-                                                    <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                    <div class="hero-menu-item-title fl-wrap">
-                                                        <h6> Garden salad</h6>
-                                                        <div class="hmi-dec"></div>
-                                                        <span class="hero-menu-item-price">$9</span>
-                                                        <div class="add_cart">Add To Cart</div>
-                                                    </div>
-                                                    <div class="hero-menu-item-details">
-                                                        <p>Pellentesque eros mi, faucibus tempor scelerisque nec, efficitur nec nunc. </p>
-                                                    </div>
-                                                </div>
-                                                <!-- hero-menu-item end-->
-                                                <!-- hero-menu-item-->
-                                                <div class="hero-menu-item">
-                                                    <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                    <div class="hero-menu-item-title fl-wrap">
-                                                        <h6>Victoria's Filet Mignon</h6>
-                                                        <div class="hmi-dec"></div>
-                                                        <span class="hero-menu-item-price">$49</span>
-                                                        <div class="add_cart">Add To Cart</div>
-                                                    </div>
-                                                    <div class="hero-menu-item-details">
-                                                        <p>Usce tempus tempus maximus volutpat</p>
-                                                    </div>
-                                                </div>
-                                                <!-- hero-menu-item end-->                                                                                                                  
-                                                <!-- hero-menu-item-->
-                                                <div class="hero-menu-item">
-                                                    <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                    <div class="hero-menu-item-title fl-wrap">
-                                                        <h6> Salmon Riverland</h6>
-                                                        <div class="hmi-dec"></div>
-                                                        <span class="hero-menu-item-price">$105</span>
-                                                        <div class="add_cart">Add To Cart</div>
-                                                    </div>
-                                                    <div class="hero-menu-item-details">
-                                                        <p>Fusce a tellus tellus. Praesent neque arcu, efficitur sit amet</p>
-                                                    </div>
-                                                </div>
-                                                <!-- hero-menu-item end-->                                                         
-                                                <!-- hero-menu-item-->
-                                                <div class="hero-menu-item">
-                                                    <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                    <div class="hero-menu-item-title fl-wrap">
-                                                        <h6>Prime Cuts of Beef</h6>
-                                                        <div class="hmi-dec"></div>
-                                                        <span class="hero-menu-item-price">$34</span>
-                                                        <div class="add_cart">Add To Cart</div>
-                                                    </div>
-                                                    <div class="hero-menu-item-details">
-                                                        <p>Pellentesque eros mi, faucibus tempor scelerisque nec, efficitur nec nunc.</p>
-                                                    </div>
-                                                </div>
-                                                <!-- hero-menu-item end-->                                                                                                                  
-                                                <!-- hero-menu-item-->
-                                                <div class="hero-menu-item">
-                                                    <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                    <div class="hero-menu-item-title fl-wrap">
-                                                        <h6> Slow-Roasted Prime Rib</h6>
-                                                        <div class="hmi-dec"></div>
-                                                        <span class="hero-menu-item-price">$52</span>
-                                                        <div class="add_cart">Add To Cart</div>
-                                                    </div>
-                                                    <div class="hero-menu-item-details">
-                                                        <p>Fusce a tellus tellus. Praesent neque arcu, efficitur sit amet</p>
-                                                    </div>
-                                                </div>
-                                                <!-- hero-menu-item end-->                                                         
-                                            </div>
-                                            <!--tab end -->
-                                            <!--tab 2-->
-                                            <div class="tab">
-                                                <div id="tab-2" class="tab-content">
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Fried Potatoes</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$29</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Granny help you treat yourself with a different meal everyday</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->  
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Doner Burger</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$19</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Etiam tempus felis eros, id lobortis turpis</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->                                                           
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Steak Filet</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$12</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Granny help you treat yourself with a different meal everyday</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->                                                           
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Cayenne Shrimp</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$37</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Cum sociis natoque penatibus et magnis</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->                                                            
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Meatball tagliatelle</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$22</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Etiam fermentum justo nec auctor pretium</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->   
-                                                </div>
-                                            </div>
-                                            <!--tab end -->
-                                            <!--tab 3-->
-                                            <div class="tab">
-                                                <div id="tab-3" class="tab-content">
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Soft shell crab</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$29</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Granny help you treat yourself with a different meal everyday</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->  
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                         
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Tarte Tatin</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$25</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Etiam tempus felis eros, id lobortis turpis</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->                                                           
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                        
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Creme Brulee</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$64</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>usce tempus tempus maximus volutpat</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->                                                           
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>                                                         
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Lemon Meringue</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$12</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>usce tempus tempus maximus volutpat</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->                                                            
-                                                </div>
-                                            </div>
-                                            <!--tab end -->                                                    
-                                            <!--tab 4-->
-                                            <div class="tab">
-                                                <div id="tab-4" class="tab-content">
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>  Lobster with melted mozarella</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$36</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Granny help you treat yourself with a different meal everyday</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->  
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>  Butterfly fried shrimps platter</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$98</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Etiam tempus felis eros, id lobortis turpis</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Filet De Saumon</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$156</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Granny help you treat yourself with a different meal everyday</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->  
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Chapel Down</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$18</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Etiam tempus felis eros, id lobortis turpis</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end--> 													
-                                                </div>
-                                            </div>
-                                            <!--tab end -->                                                     
-                                            <!--tab 5-->
-                                            <div class="tab">
-                                                <div id="tab-5" class="tab-content">
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Kiwi Coctail</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$12</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Granny help you treat yourself with a different meal everyday</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->  
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Summer Beer</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$21</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>Etiam tempus felis eros, id lobortis turpis</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->                                                           
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Red Mojitos</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$17</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>usce tempus tempus maximus volutpat</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end-->                                                           
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Cabernet Sauvignon</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$40</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>usce tempus tempus maximus volutpat</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end--> 
-                                                    <!-- hero-menu-item-->
-                                                    <div class="hero-menu-item">
-                                                        <a href="images/menu/1.jpg" class="hero-menu-item-img image-popup"><img src="images/menu/thumbnails/1.jpg" alt=""></a>
-                                                        <div class="hero-menu-item-title fl-wrap">
-                                                            <h6>Italian Soup</h6>
-                                                            <div class="hmi-dec"></div>
-                                                            <span class="hero-menu-item-price">$11</span>
-                                                            <div class="add_cart">Add To Cart</div>
-                                                        </div>
-                                                        <div class="hero-menu-item-details">
-                                                            <p>usce tempus tempus maximus volutpat</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- hero-menu-item end--> 													
-                                                </div>
-                                            </div>
-                                            <!--tab end -->                                                    
-                                        </div>
-                                        <!--tabs end -->
-                                    </div>
-                                </div>
-                                <!--  hero-menu_content end  -->
+                              <!--  section  -->
+                    <section class="parallax-section dark-bg hidden-section" data-scrollax-parent="true">
+                        <div class="brush-dec2"></div>
+                        <div class="brush-dec"></div>
+                        <div class="bg par-elem bg_tabs"   data-scrollax="properties: { translateY: '30%' }"></div>
+                        <div class="cd-tabs-layer" data-frame="10">
+                            <div class="tabs-layer"></div>
+                        </div>
+                        <div class="overlay op7"></div>
+                        <div class="container">
+                            <div class="section-title">
+                                <h4>Special menu offers.</h4>
+                                <h2>Enjoy Restaurants Specialties</h2>
+                                <div class="dots-separator fl-wrap"><span></span></div>
                             </div>
+                            <!--  hero-menu_header  end-->
+                            <div class="hero-menu tabs-act fl-wrap">
+                                <div class="row">
+                                    <!--  hero-menu_header-->
+<div class="col-md-3">
+    <div class="hero-menu_header fl-wrap">
+        <ul class="tabs-menu     no-list-style change_bg">
+            <li class="current"><a href="#tab-1" >ZAFRAN Specials BBQ</a></li>
+            <li><a href="#tab-2" >APPETIZERS</a></li>
+            <li><a href="#tab-3" >MAIN COURSE GOAT</a></li>
+            <li><a href="#tab-4" >MUTTON/LAMB</a></li>
+            <li><a href="#tab-5" >BEEF</a></li>
+            <li><a href="#tab-5" >CHICKEN</a></li>
+            <li><a href="#tab-5" >PESHAWAREE NAMAK MANDI/ Clay oven (TANDOORI)barbecue</a></li>
+            <li><a href="#tab-5" >RICE DISHES/DUM
+ BIRYANI</a></li>
+
+            <li><a href="#tab-5" >BBQ TO GO</a></li>
+  <li><a href="#tab-5" >DUM BIRYANI FAMILY PACK
+GROUP OF (4 PEOPLE)</a></li>
+  <li><a href="#tab-5" >VEGETARIAN</a></li>
+  <li><a href="#tab-5" >NAAN</a></li>
+  <li><a href="#tab-5" >Drinks</a></li>
+  <li><a href="#tab-5" >Desserts</a></li>
+  <li><a href="#tab-5" >KIDS MENU </a></li>
+
+
+
+        </ul>
+    </div>
+</div>
+                                    <!--  hero-menu_header  end-->
+                                    <!--  hero-menu_content   -->
+<div class="col-md-9">
+    <div class="hero-menu_content fl-wrap">
+        <div class="tabs-container">
+            <div class="tab">
+                <!--tab -->
+                <div id="tab-1" class="tab-content first-tab">
+                    <!-- header-menu-item-->
+                    <div class="hero-menu-item">
+                        <div class="hero-menu-item-title fl-wrap">
+                            <h6><span>01.</span>Soft shell crab</h6>
+                            <div class="hmi-dec"></div>
+                            <span class="hero-menu-item-price">$29</span>
+                        </div>
+                        <div class="hero-menu-item-details">
+                            <p>Granny help you treat yourself with a different meal everyday</p>
+                        </div>
+                    </div>
+                    <!-- header-menu-item end-->
+                                                                          
+                </div>
+                <!--tab end -->
+                                                           
+            </div>
+            <!--tabs end -->
+        </div>
+    </div>
+</div>
+                                    <!--  hero-menu_content end  -->
+                                    <div class="clearfix"></div>
+                                    <a href="menu.html" class="hero_btn" style="margin-left:30px;">View Full Menu <i class="fal fa-long-arrow-right"></i></a>
+                                    <a href="#" class="pdf-link">Dowload PDF</a>
+                                </div>
+                            </div>
+                            <!--  hero-menu  end-->
+                        </div>
+                    </section>
+                    <!--  section  end-->
                             <!--  hero-menu  end-->                                
                             <div class="clearfix"></div>
                             <div class="bold-separator bold-separator_dark"><span></span></div>
@@ -657,5 +321,10 @@
         <script src="js/jquery.min.js"></script>
         <script src="js/plugins.js"></script>
         <script src="js/scripts.js"></script>
+        <script type="text/javascript" src="js/a.json"></script>
+        <script type="text/javascript">
+            var mydata = JSON.parse(data);
+            alert(mydata[0].name);
+        </script>
     </body>
 </html>
