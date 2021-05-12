@@ -249,7 +249,7 @@
                     <!-- section   -->
                     <section class="column-section no-padding hidden-section" data-scrollax-parent="true" id="sec4">
                         <div class="column-wrap-bg left-wrap">
-                            <div class="bg par-elem "  data-bg="https://zafrankababpalace.com/wp-content/uploads/2015/07/IMG_1573.jpg" data-scrollax="properties: { translateY: '30%' }"></div>
+                            <div class="bg par-elem "  data-bg="" data-scrollax="properties: { translateY: '30%' }"></div>
                             <div class="overlay"></div>
                             <div class="quote-box">
                                 <i class="fal fa-quote-right"></i>
@@ -323,7 +323,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg="https://zafrankababpalace.com/wp-content/uploads/2015/07/Add.jpg"></div>
+                                                    <div class="bg "  data-bg=""></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         
@@ -349,7 +349,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg="https://zafrankababpalace.com/wp-content/uploads/2015/07/DS9_6880.jpg"></div>
+                                                    <div class="bg "  data-bg=""></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         
@@ -375,7 +375,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg="https://zafrankababpalace.com/wp-content/uploads/2015/07/img15.jpg"></div>
+                                                    <div class="bg "  data-bg=""></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         
@@ -424,7 +424,7 @@
                                         <!-- team-item -->
                                         <div class="team-box">
                                             <div class="team-photo">
-                                                <img src="https://zafrankababpalace.com/wp-content/uploads/2015/07/DS9_6953.jpg" alt="" class="respimg">
+                                                <img src="" alt="" class="respimg">
                                                 <div class="overlay"></div>
                                                 <div class="team-social">
                                                     <span class="ts_title">Follow</span>
@@ -447,7 +447,7 @@
                                     <div class="col-md-4">
                                         <div class="team-box">
                                             <div class="team-photo">
-                                                <img src="https://zafrankababpalace.com/wp-content/uploads/2015/07/DS9_6860.jpg" alt="" class="respimg">
+                                                <img src="" alt="" class="respimg">
                                                 <div class="overlay"></div>
                                                 <div class="team-social">
                                                     <span class="ts_title">Follow</span>
@@ -470,7 +470,7 @@
                                     <div class="col-md-4">
                                         <div class="team-box">
                                             <div class="team-photo">
-                                                <img src="https://zafrankababpalace.com/wp-content/uploads/2015/07/DS9_6945.jpg" alt="" class="respimg">
+                                                <img src="" alt="" class="respimg">
                                                 <div class="overlay"></div>
                                                 <div class="team-social">
                                                     <span class="ts_title">Follow</span>
