@@ -233,9 +233,9 @@
                                 <div class="col-md-6">
                                     <div class="image-collge-wrap fl-wrap">
                                         <div class="main-iamge">
-                                            <img src="http://restabook.kwst.net/light/images/all/3.jpg"   alt="">
+                                            <img src=""   alt="">
                                         </div>
-                                        <div class="images-collage-item" style="width:65%" data-position-left="68" data-position-top="-15" data-zindex="2" data-opacity="1.0"><img src="http://restabook.kwst.net/light/images/all/8.jpg" alt=""></div>
+                                        <div class="images-collage-item" style="width:65%" data-position-left="68" data-position-top="-15" data-zindex="2" data-opacity="1.0"><img src="" alt=""></div>
                                         <div class="images-collage-item col_par" style="width:120px" data-position-left="-23" data-position-top="-17" data-zindex="9" data-scrollax="properties: { translateY: '150px' }"><img src="images/cube.png" alt=""></div>
                                     </div>
                                 </div>
