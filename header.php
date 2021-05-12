@@ -1,4 +1,35 @@
-<header class="main-header">
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <!--=============== basic  ===============-->
+        <meta charset="UTF-8">
+        <title>Zafran</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="robots" content="index, follow"/>
+        <meta name="keywords" content=""/>
+        <meta name="description" content=""/>
+        <!--=============== css  ===============--> 
+        <link type="text/css" rel="stylesheet" href="css/reset.css">
+        <link type="text/css" rel="stylesheet" href="css/plugins.css">
+        <link type="text/css" rel="stylesheet" href="css/style.css">
+        <link type="text/css" rel="stylesheet" href="css/color.css">
+        <!--=============== favicons ===============-->
+        <link rel="shortcut icon" href="images/favicon.ico">
+    </head>
+    <body>
+        <!-- lodaer  -->
+        <div class="loader-wrap">
+            <div class="loader-item">
+                <div class="cd-loader-layer" data-frame="25">
+                    <div class="loader-layer"></div>
+                </div>
+                <span class="loader"></span>
+            </div>
+        </div>
+        <!-- loader end  -->
+        <!-- main start  -->
+        <div id="main">
+            <header class="main-header">
                 <!-- header-top  -->
                 <div class="header-top">
                     <div class="container">
@@ -27,23 +58,14 @@
                                 <nav>
                                     <ul>
                                         <li>
-                                            <a href="#" class="act-link">Home </a>
+                                            <a href="index.php" class="act-link">Home </a>
                                             <!--second level -->
                                             
                                             <!--second level end-->
                                         </li>
                                         <li>
-                                            <a href="#">Menu<i class="fas fa-caret-down"></i></a>
-                                            <!--second level -->
-                                            <ul>
-                            <li><a href="menu.php">Zafran Special BBQ</a></li>
-                            <li><a href="menu2.php">Appetizers</a></li>
-                            <li><a href="menu3.php">Peshwar Namak Mandi/Clay Oven</a></li>
-                            <li><a href="menu3.php">Main Course</a></li>
-                            <li><a href="menu3.php">Rice Dishes/Dam Biryani</a></li>
-                            <li><a href="menu3.php">Vegeterian</a></li>
-                                            </ul>
-                                            <!--second level end-->
+                                            <a href="menu.php">Menu<i class="act-link"></i></a>
+                                            
                                         </li>
 
                                         <li><a href="gallery.php">Gallery</a></li>

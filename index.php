@@ -1,34 +1,4 @@
-<!DOCTYPE HTML>
-.php lang="en">
-    <head>
-        <!--=============== basic  ===============-->
-        <meta charset="UTF-8">
-        <title>Zafran</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-        <meta name="robots" content="index, follow"/>
-        <meta name="keywords" content=""/>
-        <meta name="description" content=""/>
-        <!--=============== css  ===============-->	
-        <link type="text/css" rel="stylesheet" href="css/reset.css">
-        <link type="text/css" rel="stylesheet" href="css/plugins.css">
-        <link type="text/css" rel="stylesheet" href="css/style.css">
-        <link type="text/css" rel="stylesheet" href="css/color.css">
-        <!--=============== favicons ===============-->
-        <link rel="shortcut icon" href="images/favicon.ico">
-    </head>
-    <body>
-        <!-- lodaer  -->
-        <div class="loader-wrap">
-            <div class="loader-item">
-                <div class="cd-loader-layer" data-frame="25">
-                    <div class="loader-layer"></div>
-                </div>
-                <span class="loader"></span>
-            </div>
-        </div>
-        <!-- loader end  -->
-        <!-- main start  -->
-        <div id="main">
+
             <!-- header  -->
             <?php require_once 'header.php'; ?>
             <!--header end -->	
@@ -124,7 +94,7 @@
                         </div>
                     </section>
                     <!--  section end  -->  
-                     
+
                     <!-- section   -->
                     <section class="column-section no-padding hidden-section" data-scrollax-parent="true" id="sec4">
                         <div class="column-wrap-bg left-wrap">

@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-.php lang="en">
+<html lang="en">
     <head>
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
