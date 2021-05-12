@@ -197,7 +197,7 @@ function initRestabook() {
             var b = $(this.hash);
             b = b.length ? b : $("[name=" + this.hash.slice(1) + "]");
             if (b.length) {
-                $(.php,body").animate({
+                $("html,body").animate({
                     scrollTop: b.offset().top - a
                 }, {
                     queue: false,
@@ -210,7 +210,7 @@ function initRestabook() {
     });
     $(".to-top").on("click", function (a) {
         a.preventDefault();
-        $(.php, body").animate({
+        $("html, body").animate({
             scrollTop: 0
         }, 800);
         return false;
@@ -421,7 +421,7 @@ function initRestabook() {
                     var b = $(this.hash);
                     b = b.length ? b : $("[name=" + this.hash.slice(1) + "]");
                     if (b.length) {
-                        $(.php,body").animate({
+                        $("html,body").animate({
                             scrollTop: b.offset().top - a
                         }, {
                             queue: false,
@@ -603,7 +603,7 @@ function initRestabook() {
     function showResForm() {
         $(".reservation-modal-wrap").fadeIn(1);
         transitionLayer3.addClass('visible opening');
-        $(.php, body").addClass("hid-body");
+        $("html, body").addClass("hid-body");
         TweenMax.to($(".reservation-modal-container"), 0.8, {
             force3D: true,
             y: "0",
@@ -612,7 +612,7 @@ function initRestabook() {
         });
     }
     function hideResForm() {
-        $(.php, body").removeClass("hid-body");
+        $("html, body").removeClass("hid-body");
         TweenMax.to($(".reservation-modal-container"), 0.6, {
             force3D: true,
             y: "50px",
