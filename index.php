@@ -1,6 +1,6 @@
 
             <!-- header  -->
-            <?php require_once 'header.php'; ?>
+            <?php include 'header.php'; ?>
             <!--header end -->	
             <!-- wrapper  -->	
             <div id="wrapper">
