@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en">
+.php lang="en">
     <head>
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
@@ -42,7 +42,7 @@
                 <div class="header-inner  fl-wrap">
                     <div class="container">
                         <div class="header-container fl-wrap">
-                            <a href="index.html" class="logo-holder ajax"><img src="images/logo.png" alt=""></a>
+                            <a href="index.php" class="logo-holder ajax"><img src="images/logo.png" alt=""></a>
                             <div class="show-reserv_button show-rb"><span>Reservation</span> <i class="fal fa-bookmark"></i></div>
                             <div class="show-share-btn showshare htact"><i class="fal fa-bullhorn"></i> <span class="header-tooltip">Share</span></div>
                             <div class="show-cart sc_btn htact"><i class="fal fa-shopping-bag"></i><span class="show-cart_count">3</span><span class="header-tooltip">Your Cart</span></div>
@@ -106,8 +106,8 @@
                                     <div class="header-cart_wrap_total_item">Subtotal : <span>$147</span></div>
                                 </div>
                                 <div class="header-cart_wrap_footer fl-wrap">
-                                    <a href="cart.html"> View Cart</a>
-                                    <a href="checkout.html">  Checkout</a>
+                                    <a href="cart.php"> View Cart</a>
+                                    <a href="checkout.php">  Checkout</a>
                                 </div>
                             </div>
                             <!-- header-cart_wrap end  -->
@@ -343,7 +343,7 @@
                                     <div class="col-md-8">
                                         <div class="align-text-block">
                                             <h4>Want to cook something tasty? Read our best recipes.</h4>
-                                            <a href="blog.html" class="btn">Recipes Book <i class="fal fa-long-arrow-right"></i></a>
+                                            <a href="blog.php" class="btn">Recipes Book <i class="fal fa-long-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -640,7 +640,7 @@
                                     </div>
                                     <!--  hero-menu_content end  -->
                                     <div class="clearfix"></div>
-                                    <a href="menu.html" class="hero_btn" style="margin-left:30px;">View Full Menu <i class="fal fa-long-arrow-right"></i></a>
+                                    <a href="menu.php" class="hero_btn" style="margin-left:30px;">View Full Menu <i class="fal fa-long-arrow-right"></i></a>
                                     <a href="#" class="pdf-link">Dowload PDF</a>
                                 </div>
                             </div>
@@ -743,7 +743,7 @@
                                 <div class="section-dec sec-dec_top"></div>
                                 <div class="section-dec sec-dec_bottom"></div>
                             </div>
-                            <a href="about.html" class="btn fl-btn border-btn">Read More About us <i class="fal fa-long-arrow-right"></i></a>
+                            <a href="about.php" class="btn fl-btn border-btn">Read More About us <i class="fal fa-long-arrow-right"></i></a>
                             <div class="images-collage-item col_par" style="width:120px" data-position-left="83" data-position-top="87" data-zindex="1" data-scrollax="properties: { translateY: '150px' }"><img src="images/cube.png" alt=""></div>
                         </div>
                         <div class="section-bg">
@@ -919,7 +919,7 @@
                             <div class="column-wrap-bg-text">
                                 <h3>Our Store</h3>
                                 <h4>Want to order food home? Visit our online store.</h4>
-                                <a href="about.html" class="btn  ajax">Buy online <i class="fal fa-long-arrow-right"></i></a>
+                                <a href="about.php" class="btn  ajax">Buy online <i class="fal fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="column-section-wrap left-column-section dark-bg" >
@@ -1146,7 +1146,7 @@
                 <footer class="fl-wrap dark-bg fixed-footer">
                     <div class="container">
                         <div class="footer-top fl-wrap">
-                            <a href="index.html" class="footer-logo"><img src="images/logo2.png" alt=""></a>
+                            <a href="index.php" class="footer-logo"><img src="images/logo2.png" alt=""></a>
                             <div class="lang-wrap"><a href="#" class="act-lang">En</a><span>/</span><a href="#">Fr</a></div>
                             <div class="footer-social">
                                 <span class="footer-social-title">Follow us :</span>
@@ -1167,7 +1167,7 @@
                                         <div class="footer-widget-title">About us</div>
                                         <div class="footer-widget-content">
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eaque ipsa quae ab illo inventore veritatis et quasi architecto. </p>
-                                            <a href="about.html" class="footer-widget-content-link">Read more</a>
+                                            <a href="about.php" class="footer-widget-content-link">Read more</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1184,7 +1184,7 @@
                                                     <li><span>Find us : </span><a href="#">USA 27TH Brooklyn NY</a></li>
                                                 </ul>
                                             </div>
-                                            <a href="contacts.html" class="footer-widget-content-link">Get in Touch</a>
+                                            <a href="contacts.php" class="footer-widget-content-link">Get in Touch</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1313,4 +1313,4 @@
         <script src="js/scripts.js"></script>
         <script  src="js/map.js"></script>
     </body>
-</html>
+<.php>

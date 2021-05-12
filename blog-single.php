@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en">
+.php lang="en">
     <head>
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
@@ -42,7 +42,7 @@
                 <div class="header-inner  fl-wrap">
                     <div class="container">
                         <div class="header-container fl-wrap">
-                            <a href="index.html" class="logo-holder ajax"><img src="images/logo.png" alt=""></a>
+                            <a href="index.php" class="logo-holder ajax"><img src="images/logo.png" alt=""></a>
                             <div class="show-reserv_button show-rb"><span>Reservation</span> <i class="fal fa-bookmark"></i></div>
                             <div class="show-share-btn showshare htact"><i class="fal fa-bullhorn"></i> <span class="header-tooltip">Share</span></div>
                             <div class="show-cart sc_btn htact"><i class="fal fa-shopping-bag"></i><span class="show-cart_count">3</span><span class="header-tooltip">Your Cart</span></div>
@@ -61,12 +61,12 @@
                                             <a href="#">Home <i class="fas fa-caret-down"></i></a>
                                             <!--second level -->
                                             <ul>
-                                                <li><a href="index.html">Parallax Image</a></li>
-                                                <li><a href="index2.html">Slider</a></li>
-                                                <li><a href="index3.html">Carousel</a></li>
-                                                <li><a href="index4.html">Slideshow</a></li>
-                                                <li><a href="index5.html">Video</a></li>
-                                                <li><a href="onepage.html">One Page</a></li>
+                                                <li><a href="index.php">Parallax Image</a></li>
+                                                <li><a href="index2.php">Slider</a></li>
+                                                <li><a href="index3.php">Carousel</a></li>
+                                                <li><a href="index4.php">Slideshow</a></li>
+                                                <li><a href="index5.php">Video</a></li>
+                                                <li><a href="onepage.php">One Page</a></li>
                                             </ul>
                                             <!--second level end-->
                                         </li>
@@ -74,26 +74,26 @@
                                             <a href="#">Menu<i class="fas fa-caret-down"></i></a>
                                             <!--second level -->
                                             <ul>
-                                                <li><a href="menu.html">Menu 1</a></li>
-                                                <li><a href="menu2.html">Menu 2</a></li>
-                                                <li><a href="menu3.html">Menu 3</a></li>
+                                                <li><a href="menu.php">Menu 1</a></li>
+                                                <li><a href="menu2.php">Menu 2</a></li>
+                                                <li><a href="menu3.php">Menu 3</a></li>
                                             </ul>
                                             <!--second level end-->
                                         </li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="blog.html" class="act-link">News</a></li>
+                                        <li><a href="about.php">About</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
+                                        <li><a href="blog.php" class="act-link">News</a></li>
                                         <li>
                                             <a href="#">Pages<i class="fas fa-caret-down"></i></a>
                                             <!--second level -->
                                             <ul>
-                                                <li><a href="shop.html">Shop</a></li>
-                                                <li><a href="product-single.html">Product Single</a></li>
-                                                <li><a href="cart.html">Cart</a></li>
-                                                <li><a href="gallery.html">Gallery</a></li>
-                                                <li><a href="blog-single.html">Blog single</a></li>
-                                                <li><a href="404.html">404</a></li>
-                                                <li><a href="coming-soon.html">Coming Soon</a></li>
+                                                <li><a href="shop.php">Shop</a></li>
+                                                <li><a href="product-single.php">Product Single</a></li>
+                                                <li><a href="cart.php">Cart</a></li>
+                                                <li><a href="gallery.php">Gallery</a></li>
+                                                <li><a href="blog-single.php">Blog single</a></li>
+                                                <li><a href="404.php">404</a></li>
+                                                <li><a href="coming-soon.php">Coming Soon</a></li>
                                             </ul>
                                             <!--second level end-->
                                         </li>
@@ -140,8 +140,8 @@
                                     <div class="header-cart_wrap_total_item">Subtotal : <span>$147</span></div>
                                 </div>
                                 <div class="header-cart_wrap_footer fl-wrap">
-                                    <a href="cart.html"> View Cart</a>
-                                    <a href="checkout.html">  Checkout</a>
+                                    <a href="cart.php"> View Cart</a>
+                                    <a href="checkout.php">  Checkout</a>
                                 </div>
                             </div>
                             <!-- header-cart_wrap end  -->
@@ -187,7 +187,7 @@
                                     <div class="fl-wrap post-container">
                                         <!-- post -->
                                         <div class="post fl-wrap fw-post">
-                                            <h2><a href="blog-single.html">The Secret Ingredient</a></h2>
+                                            <h2><a href="blog-single.php">The Secret Ingredient</a></h2>
                                             <ul class="blog-title-opt">
                                                 <li><a href="#">12 may 2020</a></li>
                                                 <li> - </li>
@@ -465,7 +465,7 @@
                 <footer class="fl-wrap dark-bg fixed-footer">
                     <div class="container">
                         <div class="footer-top fl-wrap">
-                            <a href="index.html" class="footer-logo"><img src="images/logo2.png" alt=""></a>
+                            <a href="index.php" class="footer-logo"><img src="images/logo2.png" alt=""></a>
                             <div class="lang-wrap"><a href="#" class="act-lang">En</a><span>/</span><a href="#">Fr</a></div>
                             <div class="footer-social">
                                 <span class="footer-social-title">Follow us :</span>
@@ -486,7 +486,7 @@
                                         <div class="footer-widget-title">About us</div>
                                         <div class="footer-widget-content">
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eaque ipsa quae ab illo inventore veritatis et quasi architecto. </p>
-                                            <a href="about.html" class="footer-widget-content-link">Read more</a>                                                    	
+                                            <a href="about.php" class="footer-widget-content-link">Read more</a>                                                    	
                                         </div>
                                     </div>
                                 </div>
@@ -503,7 +503,7 @@
                                                     <li><span>Find us : </span><a href="#">USA 27TH Brooklyn NY</a></li>
                                                 </ul>
                                             </div>
-                                            <a href="contacts.html" class="footer-widget-content-link">Get in Touch</a>                                                    	
+                                            <a href="contacts.php" class="footer-widget-content-link">Get in Touch</a>                                                    	
                                         </div>
                                     </div>
                                 </div>
@@ -630,4 +630,4 @@
         <script src="js/plugins.js"></script>
         <script src="js/scripts.js"></script>
     </body>
-</html>
+<.php>
