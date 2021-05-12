@@ -1,42 +1,153 @@
-{
-        "tab1":
-        [
-            {
-        "title": "WHOLE CHICKEN TANDOORI",
-        "price": "$21.99",
-        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
-        },
-        {
-        "title": "WHOLE CHICKEN TANDOORI",
-        "price": "$21.99",
-        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
-        }
-    ],
-         "tab2":
-        [
-            {
-        "title": "WHOLE 2",
-        "price": "$21.99",
-        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
-        },
-        {
-        "title": "WHOLE CHICKEN TANDOORI",
-        "price": "$21.99",
-        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
-        }
-    ],
-         "tab3":
-        [
-            {
-        "title": "WHOLE 3",
-        "price": "$21.99",
-        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
-        },
-        {
-        "title": "WHOLE CHICKEN TANDOORI",
-        "price": "$21.99",
-        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
-        }
-    ],
+[
+    [
+    {
+     "title": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE",
+        "price": "$24.99",
+        "description": ""
         
- }
+    }
+        ]
+    ,
+    [
+    {
+     "title": "VEGI SAMOSA (2 People)",
+        "price": "$5.99",
+        "description": "fried or baked pastry with a savory filling like spiced potatoes, onions, peas and much more"
+        
+    },
+    {
+     "title": "CHICKEN 65 (Indo-Chinese)",
+        "price": "$10.99",
+        "description": "Boneless Chicken deep fried along with pepper powder, ginger garlic paste, salt, red chili powder, vinegar & oil to smooth paste"
+        
+    },
+    {
+     "title": "CHILI CHICKEN (Indo-Chinese)",
+        "price": "$11.99",
+        "description": "Batter fried chicken coated in a garlic, soy sauce, chili gravy, egg, corn flour, bell pepper, black pepper, and ginger garlic paste)"
+        
+    },
+    {
+     "title": "CHILLI PANEER",
+        "price": "$11.99",
+        "description": "Cottage Cheese with Chilli is an Indo-Chinese dish. It has a hint of sweetness, sourness and Spicy kick."
+        
+    }
+    ],
+    [
+    {
+     "title": "GOAT KHYBDER SHINWARI KARAHI (WOK)",
+        "price": "$20.99",
+        "description": "Prepared under the Recipe of Namak Mandi Peshawar Pakistan"
+        
+    },
+    {
+     "title": "GOAT DALEEM",
+        "price": "(on availability) $14.99",
+        "description": "Combination of goat, lentils & grains, slow cooked & garnished with fried Onions, fresh mint, ginger, green Chilies & Lemon"
+        
+    }
+
+        ],
+        [
+
+    {
+     "title": "MUTTON/LAMB KHYBER SHINWARI KARAHI (WOK)",
+        "price": "$16.99",
+        "description": "Prepared under the Recipe of Namak Mandi Peshawar Pakistan"
+        
+    },
+    {
+     "title": "MUTTON PAYA/TROTTER",
+        "price": "(on availability) $12.99",
+        "description": "Goat with bone slow cooked in spices, Lahoree style"
+        
+    }
+
+        ],
+        [
+
+
+    {
+
+
+
+     "title": "BEEF NIHARI",
+        "price": "(on availability)$13.99",
+        "description": "(Beef with bone & fennel seeds)"
+        
+    }
+
+        ],
+        [
+
+    {
+
+
+
+     "title": "CHICKEN TIKKA MASALA",
+        "price": "$13.99",
+        "description": "(Boneless broiled tandoor chicken marinated with cloves, ground turmeric, garam masala, ground coriander, ground cumin, whole-milk yogurt, tomato paste, cardamom, heavy cream peeled tomatoes and crushed red pepper flakes)"
+        
+    },
+
+
+    {
+     "title": "WHOLE CHICKEN KARAHI (4 People)",
+        "price": "$36.99",
+        "description": "Cook and Served in Traditional Karahi/WOK (prep time 45 minutes)(Prepared with garlic, ginger, salt, black pepper and chef’s secret recipes stir fried in Tomato Gravy)"
+        
+    },
+
+
+    {
+     "title": " CHICKEN KARHAI with Bone (WOK) -",
+        "price": "$14.99",
+        "description": "(Preparedwithgarlic,ginger,salt,black in pepper and chef’s secret recipes stir fried Tomato Gravy)"
+        
+    },
+    {
+     "title": " CHICKEN KARHAI without Bone (WOK)",
+        "price": "$16.99",
+        "description": "(Prepared with garlic, ginger, salt, black pepper and chef’s secret recipes stir fried in Tomato Gravy)"
+        
+    },
+    {
+     "title": "CHICKEN SHEESH KABAB KARHAI (WOK)",
+        "price": "$15.99",
+        "description": "(Prepared with garlic, ginger, salt, black pepper and chef’s secret recipes stir fried in Tomato Gravy)"
+        
+    }
+    ],
+    [
+    {
+     "title": " ",
+        "price": "",
+        "description": ""
+        
+    },
+    {
+     "title": " ",
+        "price": "",
+        "description": ""
+        
+    },
+    {
+     "title": " ",
+        "price": "",
+        "description": ""
+        
+    },
+    {
+     "title": " ",
+        "price": "",
+        "description": ""
+        
+    }
+    ]
+
+
+    
+
+
+]

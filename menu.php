@@ -77,24 +77,24 @@
 <div class="col-md-3">
     <div class="hero-menu_header fl-wrap">
         <ul class="tabs-menu     no-list-style change_bg">
-            <li class="current"><a href="#tab-1" >ZAFRAN Specials BBQ</a></li>
-            <li><a href="#tab-2" >APPETIZERS</a></li>
-            <li><a href="#tab-3" >MAIN COURSE GOAT</a></li>
-            <li><a href="#tab-4" >MUTTON/LAMB</a></li>
-            <li><a href="#tab-5" >BEEF</a></li>
+            <li class="current"><a href="#tab-0" >ZAFRAN Specials BBQ</a></li>
+            <li><a href="#tab-1" >APPETIZERS</a></li>
+            <li><a href="#tab-2" >MAIN COURSE GOAT</a></li>
+            <li><a href="#tab-3" >MUTTON/LAMB</a></li>
+            <li><a href="#tab-4" >BEEF</a></li>
             <li><a href="#tab-5" >CHICKEN</a></li>
-            <li><a href="#tab-5" >PESHAWAREE NAMAK MANDI/ Clay oven (TANDOORI)barbecue</a></li>
-            <li><a href="#tab-5" >RICE DISHES/DUM
+            <li><a href="#tab-6" >PESHAWAREE NAMAK MANDI/ Clay oven (TANDOORI)barbecue</a></li>
+            <li><a href="#tab-7" >RICE DISHES/DUM
  BIRYANI</a></li>
 
-            <li><a href="#tab-5" >BBQ TO GO</a></li>
-  <li><a href="#tab-5" >DUM BIRYANI FAMILY PACK
+            <li><a href="#tab-8" >BBQ TO GO</a></li>
+  <li><a href="#tab-9" >DUM BIRYANI FAMILY PACK
 GROUP OF (4 PEOPLE)</a></li>
-  <li><a href="#tab-5" >VEGETARIAN</a></li>
-  <li><a href="#tab-5" >NAAN</a></li>
-  <li><a href="#tab-5" >Drinks</a></li>
-  <li><a href="#tab-5" >Desserts</a></li>
-  <li><a href="#tab-5" >KIDS MENU </a></li>
+  <li><a href="#tab-10" >VEGETARIAN</a></li>
+  <li><a href="#tab-11" >NAAN</a></li>
+  <li><a href="#tab-12" >Drinks</a></li>
+  <li><a href="#tab-13" >Desserts</a></li>
+  <li><a href="#tab-14" >KIDS MENU </a></li>
 
 
 
@@ -106,38 +106,71 @@ GROUP OF (4 PEOPLE)</a></li>
 <div class="col-md-9">
     <div class="hero-menu_content fl-wrap">
         <div class="tabs-container">
-            <div class="tab">
+           
                 <!--tab -->
                 <?php 
                 $link           = "js/a.json";
         $json           = file_get_contents($link);
-        $obj            = json_decode($json);
-        $arrChildren    = $obj->response->song->description->dom->children;
 
+  $data = json_decode($json, true);
+    
+   //echo(sizeof($data));
+$array = (is_object($data)) ? array($data) : (array) $data;
+//echo($array[0][0]['title']);
+  for ($x=0;$x<sizeof($array);$x++) {
+    $value = $array[$x];
+
+    ?>
+     <div class="tab">
+        <?if ($x==0){
+?>
+<div id='<?echo 'tab-'.$x;?>' class="tab-content first-tab">
+<?
+        }
+        else{
+            ?>
+<div id='<?echo 'tab-'.$x;?>' class="tab-content">
+            <?
+        }
+        ?>
+    
+
+ <?   for($i=0;$i<sizeof($value);$i++){
 
 
   
 ?>
-                <div id="tab-1" class="tab-content first-tab">
+                
                     <!-- header-menu-item-->
                     <div class="hero-menu-item">
                         <div class="hero-menu-item-title fl-wrap">
-                            <h6><span>01.</span><?echo $decoded['tab1'];?></h6>
+                            <h6><span><?echo $i+1;?></span><?echo $value[$i]['title']?></h6>
                             <div class="hmi-dec"></div>
-                            <span class="hero-menu-item-price">$29</span>
+                            <span class="hero-menu-item-price"><?echo $value[$i]['price']?></span>
                         </div>
                         <div class="hero-menu-item-details">
-                            <p>Granny help you treat yourself with a different meal everyday</p>
+                            <p><?echo $value[$i]['description']?></p>
                         </div>
                     </div>
                     <!-- header-menu-item end-->
                                                                           
-                </div>
+               
+
+                <?
+
+    }
+    ?>
+      </div>
+     </div>
+     <?
+  }
+
+?>
 
 
                 <!--tab end -->
                                                            
-            </div>
+          
             <!--tabs end -->
         </div>
     </div>
