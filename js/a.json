@@ -1,0 +1,42 @@
+{
+        "tab1":
+        [
+            {
+        "title": "WHOLE CHICKEN TANDOORI",
+        "price": "$21.99",
+        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
+        },
+        {
+        "title": "WHOLE CHICKEN TANDOORI",
+        "price": "$21.99",
+        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
+        }
+    ],
+         "tab2":
+        [
+            {
+        "title": "WHOLE 2",
+        "price": "$21.99",
+        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
+        },
+        {
+        "title": "WHOLE CHICKEN TANDOORI",
+        "price": "$21.99",
+        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
+        }
+    ],
+         "tab3":
+        [
+            {
+        "title": "WHOLE 3",
+        "price": "$21.99",
+        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
+        },
+        {
+        "title": "WHOLE CHICKEN TANDOORI",
+        "price": "$21.99",
+        "description": "WHOLE CHICKEN TANDOORI FULL CHARGA LAHORI STYLE"
+        }
+    ],
+        
+ }

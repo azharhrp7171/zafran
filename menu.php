@@ -108,11 +108,21 @@ GROUP OF (4 PEOPLE)</a></li>
         <div class="tabs-container">
             <div class="tab">
                 <!--tab -->
+                <?php 
+                $link           = "js/a.json";
+        $json           = file_get_contents($link);
+        $obj            = json_decode($json);
+        $arrChildren    = $obj->response->song->description->dom->children;
+
+
+
+  
+?>
                 <div id="tab-1" class="tab-content first-tab">
                     <!-- header-menu-item-->
                     <div class="hero-menu-item">
                         <div class="hero-menu-item-title fl-wrap">
-                            <h6><span>01.</span>Soft shell crab</h6>
+                            <h6><span>01.</span><?echo $decoded['tab1'];?></h6>
                             <div class="hmi-dec"></div>
                             <span class="hero-menu-item-price">$29</span>
                         </div>
@@ -123,6 +133,8 @@ GROUP OF (4 PEOPLE)</a></li>
                     <!-- header-menu-item end-->
                                                                           
                 </div>
+
+
                 <!--tab end -->
                                                            
             </div>
@@ -326,6 +338,7 @@ GROUP OF (4 PEOPLE)</a></li>
            // var mydata = JSON.parse(data);
            
             
+alert(txt.data.length);
         </script>
     </body>
 </html>
