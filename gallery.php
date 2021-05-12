@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en">
+.php lang="en">
     <head>
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
@@ -30,131 +30,7 @@
         <!-- main start  -->
         <div id="main">
             <!-- header  -->
-            <header class="main-header">
-                <!-- header-top  -->
-                <div class="header-top">
-                    <div class="container">
-                        <div class="lang-wrap"><a href="#" class="act-lang">En</a><span>/</span><a href="#">Fr</a></div>
-                        <div class="header-top_contacts"><a href="#"><span>Call now:</span> +489756412322</a><a href="#"><span>Write :</span> yourmail@domain.com</a></div>
-                    </div>
-                </div>
-                <!--header-top end -->
-                <div class="header-inner  fl-wrap">
-                    <div class="container">
-                        <div class="header-container fl-wrap">
-                            <a href="index.html" class="logo-holder ajax"><img src="images/logo.png" alt=""></a>
-                            <div class="show-reserv_button show-rb"><span>Reservation</span> <i class="fal fa-bookmark"></i></div>
-                            <div class="show-share-btn showshare htact"><i class="fal fa-bullhorn"></i> <span class="header-tooltip">Share</span></div>
-                            <div class="show-cart sc_btn htact"><i class="fal fa-shopping-bag"></i><span class="show-cart_count">3</span><span class="header-tooltip">Your Cart</span></div>
-                            <!-- nav-button-wrap-->
-                            <div class="nav-button-wrap">
-                                <div class="nav-button">
-                                    <span></span><span></span><span></span>
-                                </div>
-                            </div>
-                            <!-- nav-button-wrap end-->
-                            <!--  navigation -->
-                            <div class="nav-holder main-menu">
-                                <nav>
-                                    <ul>
-                                        <li>
-                                            <a href="#">Home <i class="fas fa-caret-down"></i></a>
-                                            <!--second level -->
-                                            <ul>
-                                                <li><a href="index.html">Parallax Image</a></li>
-                                                <li><a href="index2.html">Slider</a></li>
-                                                <li><a href="index3.html">Carousel</a></li>
-                                                <li><a href="index4.html">Slideshow</a></li>
-                                                <li><a href="index5.html">Video</a></li>
-                                                <li><a href="onepage.html">One Page</a></li>
-                                            </ul>
-                                            <!--second level end-->
-                                        </li>
-                                        <li>
-                                            <a href="#">Menu<i class="fas fa-caret-down"></i></a>
-                                            <!--second level -->
-                                            <ul>
-                                                <li><a href="menu.html">Menu 1</a></li>
-                                                <li><a href="menu2.html">Menu 2</a></li>
-                                                <li><a href="menu3.html">Menu 3</a></li>
-                                            </ul>
-                                            <!--second level end-->
-                                        </li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="blog.html">News</a></li>
-                                        <li>
-                                            <a href="#" class="act-link">Pages<i class="fas fa-caret-down"></i></a>
-                                            <!--second level -->
-                                            <ul>
-                                                <li><a href="shop.html">Shop</a></li>
-                                                <li><a href="product-single.html">Product Single</a></li>
-                                                <li><a href="cart.html">Cart</a></li>
-                                                <li><a href="gallery.html">Gallery</a></li>
-                                                <li><a href="blog-single.html">Blog single</a></li>
-                                                <li><a href="404.html">404</a></li>
-                                                <li><a href="coming-soon.html">Coming Soon</a></li>
-                                            </ul>
-                                            <!--second level end-->
-                                        </li>
-                                    </ul>
-                                </nav>
-                            </div>
-                            <!-- navigation  end -->                        
-                            <!-- header-cart_wrap  -->
-                            <div class="header-cart_wrap novis_cart">
-                                <div class="header-cart_title">Your Cart <span>4 items</span></div>
-                                <div class="header-cart_wrap_container fl-wrap">
-                                    <div class="box-widget-content">
-                                        <div class="widget-posts fl-wrap">
-                                            <ol>
-                                                <li class="clearfix">
-                                                    <a href="#"  class="widget-posts-img"><img src="images/menu/1.jpg" class="respimg" alt=""></a>
-                                                    <div class="widget-posts-descr">
-                                                        <a href="#" title="">Grilled Steaks</a>
-                                                        <div class="widget-posts-descr_calc clearfix">1 <span>x</span> $45</div>
-                                                    </div>
-                                                    <div class="clear-cart_button"><i class="fal fa-times"></i></div>
-                                                </li>
-                                                <li class="clearfix">
-                                                    <a href="#"  class="widget-posts-img"><img src="images/menu/1.jpg" class="respimg" alt=""></a>
-                                                    <div class="widget-posts-descr">
-                                                        <a href="#" title="">Cripsy Lobster & Shrimp Bites</a>
-                                                        <div class="widget-posts-descr_calc clearfix">2 <span>x</span> $22</div>
-                                                    </div>
-                                                    <div class="clear-cart_button"><i class="fal fa-times"></i></div>
-                                                </li>
-                                                <li class="clearfix">
-                                                    <a href="#"  class="widget-posts-img"><img src="images/menu/1.jpg" class="respimg" alt=""></a>
-                                                    <div class="widget-posts-descr">
-                                                        <a href="#" title="">Chicken tortilla soup</a>
-                                                        <div class="widget-posts-descr_calc clearfix">1 <span>x</span> $37</div>
-                                                    </div>
-                                                    <div class="clear-cart_button"><i class="fal fa-times"></i></div>
-                                                </li>
-                                            </ol>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="header-cart_wrap_total fl-wrap">
-                                    <div class="header-cart_wrap_total_item">Subtotal : <span>$147</span></div>
-                                </div>
-                                <div class="header-cart_wrap_footer fl-wrap">
-                                    <a href="cart.html"> View Cart</a>
-                                    <a href="checkout.html">  Checkout</a>
-                                </div>
-                            </div>
-                            <!-- header-cart_wrap end  -->
-                            <!-- share-wrapper -->
-                            <div class="share-wrapper isShare">
-                                <div class="share-container fl-wrap"></div>
-                            </div>
-                            <!-- share-wrapper-end -->
-                        </div>
-                    </div>
-                </div>
-                <!-- header-inner end  -->
-            </header>
+             <?php require_once 'header.php'; ?>
             <!--header end -->	
             <!-- wrapper  -->	
             <div id="wrapper">
@@ -197,74 +73,59 @@
                                 <!-- gallery-item-->
                                 <div class="gallery-item dishes">
                                     <div class="grid-item-holder hov_zoom">
-                                        <a href="images/all/1.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
+                                        <a href="https://zafrankababpalace.com/wp-content/uploads/2015/07/img17.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://zafrankababpalace.com/wp-content/uploads/2015/07/img17.jpg"    alt="">
                                     </div>
                                 </div>
                                 <!-- gallery-item end-->
                                 <!-- gallery-item-->
                                 <div class="gallery-item resta_img events">
                                     <div class="grid-item-holder hov_zoom">
-                                        <a href="images/all/11.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
+                                        <a href="https://zafrankababpalace.com/wp-content/uploads/2015/07/img15.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://zafrankababpalace.com/wp-content/uploads/2015/07/img15.jpg"    alt="">
                                     </div>
                                 </div>
                                 <!-- gallery-item end-->
                                 <!-- gallery-item-->
                                 <div class="gallery-item gallery-item-second dishes">
                                     <div class="grid-item-holder hov_zoom">
-                                        <a href="images/all/1.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
+                                        <a href="https://zafrankababpalace.com/wp-content/uploads/2015/07/img16.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://zafrankababpalace.com/wp-content/uploads/2015/07/img16.jpg"    alt="">
                                     </div>
                                 </div>
                                 <!-- gallery-item end-->
                                 <!-- gallery-item-->
                                 <div class="gallery-item resta_img events">
                                     <div class="grid-item-holder hov_zoom">
-                                        <a href="images/all/1.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
+                                        <a href="https://zafrankababpalace.com/wp-content/uploads/2015/07/DS9_7096.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://zafrankababpalace.com/wp-content/uploads/2015/07/DS9_7096.jpg"    alt="">
                                     </div>
                                 </div>
-                                <!-- gallery-item end-->
-                                <!-- gallery-item-->
-                                <div class="gallery-item resta_img video_links">
+                                <div class="gallery-item resta_img events">
                                     <div class="grid-item-holder hov_zoom">
-                                        <a href="https://vimeo.com/10322316" class="box-media-zoom   popup-image"><i class="fal fa-play"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
+                                        <a href="https://zafrankababpalace.com/wp-content/uploads/2015/07/DS9_6937.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://zafrankababpalace.com/wp-content/uploads/2015/07/DS9_6937.jpg"    alt="">
                                     </div>
                                 </div>
-                                <!-- gallery-item end-->
-                                <!-- gallery-item-->
-                                <div class="gallery-item dishes">
+                                <div class="gallery-item resta_img events">
                                     <div class="grid-item-holder hov_zoom">
-                                        <a href="images/all/1.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
+                                        <a href="https://zafrankababpalace.com/wp-content/uploads/2015/07/img11.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://zafrankababpalace.com/wp-content/uploads/2015/07/img11.jpg"    alt="">
                                     </div>
                                 </div>
-                                <!-- gallery-item end-->
-                                <!-- gallery-item-->
-                                <div class="gallery-item resta_img events video_links">
+                                <div class="gallery-item resta_img events">
                                     <div class="grid-item-holder hov_zoom">
-                                        <a href="https://www.youtube.com/watch?v=GlrxcuEDyF8" class="box-media-zoom   popup-image"><i class="fal fa-play"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
+                                        <a href="https://zafrankababpalace.com/wp-content/uploads/2015/07/img12.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://zafrankababpalace.com/wp-content/uploads/2015/07/img12.jpg"    alt="">
                                     </div>
                                 </div>
-                                <!-- gallery-item end-->	
-                                <!-- gallery-item-->
-                                <div class="gallery-item resta_img dishes">
+                                <div class="gallery-item resta_img events">
                                     <div class="grid-item-holder hov_zoom">
-                                        <a href="images/all/1.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
+                                        <a href="https://zafrankababpalace.com/wp-content/uploads/2015/07/img9.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://zafrankababpalace.com/wp-content/uploads/2015/07/img9.jpg"    alt="">
                                     </div>
                                 </div>
-                                <!-- gallery-item end-->
-                                <!-- gallery-item-->
-                                <div class="gallery-item resta_img dishes">
-                                    <div class="grid-item-holder hov_zoom">
-                                        <a href="images/all/1.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                        <img  src="images/all/1.jpg"    alt="">
-                                    </div>
-                                </div>
+                               
                                 <!-- gallery-item end-->								
                             </div>
                             <!-- gallery end -->                                
@@ -283,7 +144,7 @@
                 <footer class="fl-wrap dark-bg fixed-footer">
                     <div class="container">
                         <div class="footer-top fl-wrap">
-                            <a href="index.html" class="footer-logo"><img src="images/logo2.png" alt=""></a>
+                            <a href="index.php" class="footer-logo"><img src="images/logo2.png" alt=""></a>
                             <div class="lang-wrap"><a href="#" class="act-lang">En</a><span>/</span><a href="#">Fr</a></div>
                             <div class="footer-social">
                                 <span class="footer-social-title">Follow us :</span>
@@ -304,7 +165,7 @@
                                         <div class="footer-widget-title">About us</div>
                                         <div class="footer-widget-content">
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eaque ipsa quae ab illo inventore veritatis et quasi architecto. </p>
-                                            <a href="about.html" class="footer-widget-content-link">Read more</a>                                                    	
+                                            <a href="about.php" class="footer-widget-content-link">Read more</a>                                                    	
                                         </div>
                                     </div>
                                 </div>
@@ -321,7 +182,7 @@
                                                     <li><span>Find us : </span><a href="#">USA 27TH Brooklyn NY</a></li>
                                                 </ul>
                                             </div>
-                                            <a href="contacts.html" class="footer-widget-content-link">Get in Touch</a>                                                    	
+                                            <a href="contacts.php" class="footer-widget-content-link">Get in Touch</a>                                                    	
                                         </div>
                                     </div>
                                 </div>
@@ -448,4 +309,4 @@
         <script src="js/plugins.js"></script>
         <script src="js/scripts.js"></script>
     </body>
-</html>
+<.php>
