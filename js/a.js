@@ -1,4 +1,6 @@
-{
+<script>
+alert('txt.data.name');
+var txt = {
     "data": {
         "name":"q",
         "items":
@@ -18,3 +20,5 @@
  }
         
 }
+
+</script>

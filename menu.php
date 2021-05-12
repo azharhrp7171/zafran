@@ -321,10 +321,11 @@ GROUP OF (4 PEOPLE)</a></li>
         <script src="js/jquery.min.js"></script>
         <script src="js/plugins.js"></script>
         <script src="js/scripts.js"></script>
-        <script type="text/javascript" src="js/a.json"></script>
+        <script type="text/javascript" src="js/a.js"></script>
         <script type="text/javascript">
-            var mydata = JSON.parse(data);
-            alert(mydata[0].name);
+           // var mydata = JSON.parse(data);
+           
+            
         </script>
     </body>
 </html>
