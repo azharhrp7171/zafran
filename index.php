@@ -102,10 +102,7 @@
                             <div class="bg par-elem "  data-bg="images/all/9.jpeg" data-scrollax="properties: { translateY: '30%' }"></div>
                             <div class="overlay"></div>
                             <div class="quote-box">
-                                <i class="fal fa-quote-right"></i>
-                                <p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi accusantium."</p>
-                                <div class="signature"><img src="images/signature.png" alt=""></div>
-                                <h4>Kevin  Kowalsky - Restaurant’s cheaf</h4>
+                                
                             </div>
                         </div>
                         <div class="column-section-wrap dark-bg" >
@@ -114,7 +111,7 @@
                                     <div class="section-title">
                                         <h4>Call For Reservations</h4>
                                         <h2>Open 6 Days A Week </h2>
-                                        <h3>Tuesday to Sunday </h3>
+                                        <h4>Tuesday to Sunday </h4>
 
                                         <div class="dots-separator fl-wrap"><span></span></div>
                                     </div>
@@ -136,13 +133,13 @@
                                                 </div>
                                             </div>
                                             <div class="col-sm-4">
-                                                <div class="work-time">
+                                                
                                                     <h3>Take out only</h3>
                                                 <div class="hours">
                                                     09:30 PM<br>
                                                     10:00 PM
                                                 </div>
-                                                </div>
+                                                
                                                 
                                             </div>
                                         </div>

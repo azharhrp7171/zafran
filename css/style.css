@@ -1658,7 +1658,7 @@ section.parallax-section.hero-section .section-title h2 {
     margin-left: -5px;
     width: 10px;
 	bottom:20px;
-    background: url(../images/ver-separator.png) repeat-y;
+    /*background: url(../images/ver-separator.png) repeat-y;*/
 }
 .big-number {
 	margin:20px auto 0;
