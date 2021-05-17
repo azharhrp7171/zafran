@@ -83,7 +83,9 @@
                                 <div class="col-md-6">
                                     <div class="image-collge-wrap fl-wrap">
                                         <div class="main-iamge">
-                                            <img src="images/all/3.jpg"   alt="">
+                                           <a href="https://www.doordash.com/store/zafran-kabab-palace-harrisburg-131667/?utm_campaign=gpa">
+                                               <img src="https://www.pymnts.com/wp-content/uploads/2020/10/DoorDash-business-remote-workers.jpg"   alt="Zafran Kabab Palace">
+                                           </a> 
                                         </div>
                                         <div class="images-collage-item" style="width:65%" data-position-left="68" data-position-top="-15" data-zindex="2" data-opacity="1.0"><img src="images/all/8.jpg" alt=""></div>
                                         <div class="images-collage-item col_par" style="width:120px" data-position-left="-23" data-position-top="-17" data-zindex="9" data-scrollax="properties: { translateY: '150px' }"><img src="images/cube.png" alt=""></div>
@@ -99,10 +101,23 @@
                     <!-- section   -->
                     <section class="column-section no-padding hidden-section" data-scrollax-parent="true" id="sec4">
                         <div class="column-wrap-bg left-wrap">
-                            <div class="bg par-elem "  data-bg="">
-                                <img src="images/all/9.jpeg" height="100%" width="150%">
+                            <div>
+                                <a href="https://www.ubereats.com/charlotte/food-delivery/zafran-kabab-palace-harrisburg/5VZ9qUS9TOucWSjjtFf6RA" target="_blank">
+                                    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/uber-eats-logo.png" width="70%" height="100%">
+                                
+                                </a>
+                                <a href="https://www.grubhub.com/restaurant/zafran-kabab-palace-4250-main-st-ste-100-harrisburg/556192" target="_blank">
+                                    <img src="https://1000logos.net/wp-content/uploads/2020/08/Grubhub-Logo-2004.png" width="70%" height="100%">
+                                
+                                </a> 
+                                
+                                
+
+
+                                
+                                
                             </div>
-                            <div class="overlay"></div>
+                            
                             <div class="quote-box">
                                 
                             </div>
@@ -355,7 +370,8 @@
                     <!-- section   -->
                     <section class="column-section no-padding hidden-section" data-scrollax-parent="true">
                         <div class="column-wrap-bg right-wrap">
-                            <div class="bg par-elem "  data-bg="images/bg/1.jpg" data-scrollax="properties: { translateY: '30%' }"></div>
+
+                            <div class="bg"  data-bg="https://logos-download.com/wp-content/uploads/2019/07/Postmates_Logo.png"></div>
                             <div class="overlay"></div>
                             <div class="column-wrap-bg-text">
                                 <h3>Our Store</h3>
