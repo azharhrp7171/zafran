@@ -257,6 +257,9 @@ blockquote p {
 	height:130%;
 	top:-15%;
 }
+.par-elem img{
+	height: 100%;
+}
 .overlay {
 	position: absolute;
 	top: 0;

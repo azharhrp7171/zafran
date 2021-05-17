@@ -99,7 +99,9 @@
                     <!-- section   -->
                     <section class="column-section no-padding hidden-section" data-scrollax-parent="true" id="sec4">
                         <div class="column-wrap-bg left-wrap">
-                            <div class="bg par-elem "  data-bg="images/all/9.jpeg" data-scrollax="properties: { translateY: '30%' }"></div>
+                            <div class="bg par-elem "  data-bg="">
+                                <img src="images/all/9.jpeg" height="100%" width="150%">
+                            </div>
                             <div class="overlay"></div>
                             <div class="quote-box">
                                 
@@ -170,7 +172,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg=""></div>
+                                                    <div class="bg "  data-bg="images/all/DS9_6880.jpg"></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         
@@ -196,7 +198,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg=""></div>
+                                                    <div class="bg "  data-bg="images/all/img17.jpg"></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         
@@ -222,7 +224,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg=""></div>
+                                                    <div class="bg "  data-bg="images/all/img18.jpg"></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         
@@ -271,7 +273,7 @@
                                         <!-- team-item -->
                                         <div class="team-box">
                                             <div class="team-photo">
-                                                <img src="" alt="" class="respimg">
+                                                <img src="images/all/mazhar.jpg" alt="" class="respimg">
                                                 <div class="overlay"></div>
                                                 <div class="team-social">
                                                     <span class="ts_title">Follow</span>
@@ -294,7 +296,7 @@
                                     <div class="col-md-4">
                                         <div class="team-box">
                                             <div class="team-photo">
-                                                <img src="" alt="" class="respimg">
+                                                <img src="images/all/asad.jpg" alt="" class="respimg">
                                                 <div class="overlay"></div>
                                                 <div class="team-social">
                                                     <span class="ts_title">Follow</span>
@@ -317,7 +319,7 @@
                                     <div class="col-md-4">
                                         <div class="team-box">
                                             <div class="team-photo">
-                                                <img src="" alt="" class="respimg">
+                                                <img src="images/all/bro.jpg" alt="" class="respimg">
                                                 <div class="overlay"></div>
                                                 <div class="team-social">
                                                     <span class="ts_title">Follow</span>
